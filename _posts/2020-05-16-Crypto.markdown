@@ -1,0 +1,31 @@
+---
+title: "Crypto"
+layout: post
+date: 2020-05-16 05:40
+tag: 
+  -Cryptography
+  -Mathematics
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "I am doing this project to study all cryptography properly and create new ideas for the same."
+category: project
+author: 
+  -AmanGondaliya
+externalLink: false
+
+---
+
+  I am studying different ciphers and writing blogs discussing its basics, encryption, decryption, security and
+  possible attacks on it.
+ 
+---
+
+What is inside?
+
+-Link to list of all the blogs
+
+---
+
+[Check it out](https://docs.google.com/document/d/1PYLXd1JJANGALlPFR-QXkV6i-0lYYUU8ADzRA4gDBKQ/edit?usp=sharing) here.
+If you need some help, just [tell me](mailto:amangondaliya555@gmail.com).

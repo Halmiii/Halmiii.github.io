@@ -1,0 +1,31 @@
+---
+title: "Stegoron"
+layout: post
+date: 2019-08-30 22:10
+tag: 
+  -Steganography
+  -Security
+  -CTF
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This is a simple python based tool for steganogaphy in PNG files."
+category: project
+author: AmanGondaliya
+externalLink: false
+---
+
+This is a python based steganography tool to hide/retrieve data in/from a PNG files using LSB method. It can be used in 
+CTF or personal use. 
+
+---
+
+What is inside?
+
+- python code for steganography using LSB method in png files.
+- ReadMe guide how to use this tool.
+
+---
+
+[Check it out](https://github.com/Amangondaliya555/Stegoron) here.
+If you need some help, just [tell me](https://github.com/Amangondaliya555/Stegoron/issues).
